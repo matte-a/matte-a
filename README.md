@@ -1,5 +1,5 @@
 
-<div style="display:flex;flex-wrap:wrap;gap:0px 20px;" >
+<div >
 
 ![REACT](https://img.shields.io/static/v1?style=for-the-badge&message=React&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 
