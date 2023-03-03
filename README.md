@@ -1,7 +1,7 @@
 <img src="./images/cover.gif" />
 
-![](https://raw.githubusercontent.com/matte-a/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/matte-a/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](./images/generated/overview.svg#gh-dark-mode-only)
+![](./images/generated/languages.svg#gh-dark-mode-only)
 
 For the above stats check out the original repo [github-stats](https://github.com/jstrieb/github-stats)
 <!-- <div >
