@@ -3,7 +3,7 @@
 ![](./images/generated/overview.svg#gh-dark-mode-only)
 ![](./images/generated/languages.svg#gh-dark-mode-only)
 
-For the above stats check out the original repo [github-stats](https://github.com/jstrieb/github-stats)
+**For the above stats check out the original repo [github-stats](https://github.com/jstrieb/github-stats)**
 <!-- <div >
 	
 ![REACT](https://img.shields.io/static/v1?style=for-the-badge&message=React&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
