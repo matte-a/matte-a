@@ -1,4 +1,4 @@
-<img src="./images/cover.gif" />
+<!--img src="./images/cover.gif" /-->
 
 ![](./images/generated/overview.svg#gh-dark-mode-only)
 ![](./images/generated/languages.svg#gh-dark-mode-only)
